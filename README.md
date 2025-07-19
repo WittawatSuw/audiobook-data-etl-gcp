@@ -1,10 +1,9 @@
 Audiobook Sales ETL Pipeline on GCP Workshop (Road to Data Engineer Course, DataTH School, 2023) 
 
-● Developed an ETL pipeline on GCP using Apache Airflow, Python, Pandas, and PySpark to 
-process over 2 million rows of audiobook sales transaction data. 
+- Developed an ETL pipeline on GCP using Apache Airflow, Python, Pandas, and PySpark to process over 2 million rows of audiobook sales transaction data.
+  
+- Extracted data from various sources, transformed it into an analysis-ready format, and loaded it into BigQuery.
 
-● Extracted data from various sources, transformed it into an analysis-ready format, and loaded it 
-into BigQuery. 
+- Applied data cleaning and validation procedures to ensure data quality and integrity for large-scale datasets.
 
-● Applied data cleaning and validation procedures to ensure data quality and integrity for 
-large-scale datasets. 
+- Designed and built interactive dashboards using Looker Studio (formerly Google Data Studio) to visualize key business insights, including Revenue by Country, Transactions by Country, Best-Selling Books, and Best-Selling Categories.
